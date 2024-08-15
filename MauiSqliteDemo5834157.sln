@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MauiSqliteDemo5834157", "MauiSqliteDemo5834157\MauiSqliteDemo5834157.csproj", "{41AD2B55-43E9-4AF2-8F56-5E1A793C1F9E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{41AD2B55-43E9-4AF2-8F56-5E1A793C1F9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{41AD2B55-43E9-4AF2-8F56-5E1A793C1F9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{41AD2B55-43E9-4AF2-8F56-5E1A793C1F9E}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{41AD2B55-43E9-4AF2-8F56-5E1A793C1F9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{41AD2B55-43E9-4AF2-8F56-5E1A793C1F9E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{41AD2B55-43E9-4AF2-8F56-5E1A793C1F9E}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C7DD21E2-4212-41CD-B90D-C4D27F4C48A8}
+	EndGlobalSection
+EndGlobal
